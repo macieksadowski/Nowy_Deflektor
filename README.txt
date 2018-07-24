@@ -1,7 +1,9 @@
            Gra Nowy Deflektor - Maciej Sadowski, 2018
 --------------------------------------------------------------------------------
-Gra polega na kierowaniu promieniem lasera w celu zniszczenia wszystkich detonatorów znajdujących się na planszy. Laserem kierujemy zmieniając położenia luster znajdujących się na planszy, które odbijają laser (klikając na nie). 
-Po zniszczeniu detonatorów należy nakierować laser na odbiornik, który odblokuje się tylko wtedy, gdy wszystkie detonatory na planszy będą zniszczone- liczbę punktów jest widoczna na wskaźniku w prawym, dolnym rogu planszy.
+Gra polega na kierowaniu promieniem lasera w celu zniszczenia wszystkich detonatorów znajdujących się na planszy. 
+Laserem kierujemy zmieniając położenia luster znajdujących się na planszy, które odbijają laser (klikając na nie). 
+Po zniszczeniu detonatorów należy nakierować laser na odbiornik, który odblokuje się tylko wtedy, 
+gdy wszystkie detonatory na planszy będą zniszczone- liczbę punktów jest widoczna na wskaźniku w prawym, dolnym rogu planszy.
 Laser ma ograniczony czas działania, co symbolizuje wskaźnik energii w prawym, dolnym rogu planszy.
 
 Struktura pliku "konfiguracja.ini":	
